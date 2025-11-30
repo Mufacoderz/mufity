@@ -77,7 +77,7 @@ const Layout = ({ children }: LayoutProps) => {
               JD
             </div>
             <div className="flex-1 min-w-0">
-              <p className="text-sm font-medium truncate">John Doe</p>
+              <p className="text-sm font-medium truncate">Muhammad Fadil</p>
               <p className="text-xs text-muted-foreground">Level 8 • 1,240 XP</p>
             </div>
           </div>
